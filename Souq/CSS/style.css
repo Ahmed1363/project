@@ -1,0 +1,63 @@
+
+
+.all_produact_pagintion{
+   
+    margin-left: 40%;
+ }
+ /*** login****/
+ input[type=password],[type=email] {
+    width: 30%;
+    padding: 12px 20px;
+   margin: 8px 0;
+    size: -50;
+  }
+  .login_form ,.forgit_password_form ,.resset_password ,.Singnup ,.review_img_div       {
+      margin-left: 35%;
+  }
+  .CheckOut{
+      background-color: rgb(230, 59, 144);
+      width: 20%;
+      
+  }
+  .edit_profile{
+    margin-left: 35%;
+  }
+ .profile_info,.order_success_info
+ {
+     
+     
+      text-align: center;
+  }
+  .profile_image {
+    margin: 0 auto;
+    display: flex;
+  justify-content: center;
+
+  }
+  .review_img{
+    width: 150px;
+    height: 150px;
+
+  }
+.review_img_div{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
